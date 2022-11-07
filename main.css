@@ -6,13 +6,13 @@ h1 {
   
   }
 
-.menu {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-li{
+li {
   background-color: #ff80bf;
   display: inline;
 }
