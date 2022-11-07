@@ -7,6 +7,8 @@ h1 {
   }
 
 .menu {
+  background-color: #ff80bf;
+  display: inline;
   list-style-type: none;
   margin: 0;
   padding: 0;
