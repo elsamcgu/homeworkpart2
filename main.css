@@ -13,6 +13,8 @@ ul {
 }
 
 li {
+  text-align: center;
+  padding: 14px 16px;
   font-family: Arial, Helvetica, sans-serif;
   display: inline;
 }
